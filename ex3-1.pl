@@ -6,3 +6,7 @@ chomp(@lines = <STDIN>);
 
 print "@lines\n";
 
+
+# or just use
+# print reverse <STDIN>;
+
